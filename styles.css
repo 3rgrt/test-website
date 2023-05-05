@@ -1,0 +1,35 @@
+ul {
+    list-style: none;
+    
+}
+
+li {
+    padding: 0 10px;
+    display: inline-block;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+header {
+    background-image: url("img/header.png");
+    position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+nav {
+    padding: 0 50px;
+    display: flex;
+}
+
+.btn {
+    color: white;
+    background-color: rgb(18, 119, 234);
+    border: none;
+    border-radius: 20px;
+    padding: 10px 30px;
+}
